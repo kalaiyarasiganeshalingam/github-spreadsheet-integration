@@ -1,0 +1,4 @@
+sheet_refresh_token = "SHEET_REFRESH_TOKEN"
+sheet_client_id = "SHEET_CLIENT_ID"
+sheet_client_secret = "SHEET_CLIENT_SECRET"
+github_access_token = "GITHUB_ACCESS_TOKEN"

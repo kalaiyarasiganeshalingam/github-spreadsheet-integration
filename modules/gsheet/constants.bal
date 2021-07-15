@@ -1,0 +1,11 @@
+const string BASE_URL = "https://sheets.googleapis.com";
+public const string REFRESH_URL = "https://www.googleapis.com/oauth2/v3/token";
+const string SPREADSHEET_PATH = "/v4/spreadsheets";
+const string PATH_SEPARATOR = "/";
+const string BATCH_UPDATE_REQUEST = ":batchUpdate";
+const string EXCLAMATION_MARK = "!";
+const string VALUE_INPUT_OPTION = "?valueInputOption=RAW";
+const string VALUES_PATH = "/values/";
+const string EMPTY_STRING = "";
+const string QUESTION_MARK = "?";
+const string VALUE_RENDER_OPTION = "valueRenderOption=";
